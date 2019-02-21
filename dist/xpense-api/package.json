@@ -1,0 +1,22 @@
+{
+  "name": "xpense-api",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^7.2.0",
+    "@angular/core": "^7.2.0",
+    "rxjs": "~6.3.3"
+  },
+  "main": "bundles/xpense-api.umd.js",
+  "module": "fesm5/xpense-api.js",
+  "es2015": "fesm2015/xpense-api.js",
+  "esm5": "esm5/xpense-api.js",
+  "esm2015": "esm2015/xpense-api.js",
+  "fesm5": "fesm5/xpense-api.js",
+  "fesm2015": "fesm2015/xpense-api.js",
+  "typings": "xpense-api.d.ts",
+  "metadata": "xpense-api.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
